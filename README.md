@@ -1,6 +1,6 @@
 # My Portafolio
  
-<img src= "portafolio.png" width='300'/>
+<img src= "./images/portafolio.png" width='300'/>
 # lucaza21.github.io/repository/
 
 ## Description: 
