@@ -15,7 +15,7 @@ Email: <luis.carrasquilla.z@gmail.com> /
 Linkedin: **[Luis Carrasquilla](https://www.linkedin.com/in/luis-carrasquilla/)** 
 
 ## Roadmap
-I'm planning to add more styles and transitions and a cool background effect to the pages.
+I'm planning to add more styles and transitions and a cool background effect to the pages. (future)
 
 ## License information:  
 This project has been made in the MIT xPRO's Professional Certificate in Coding: Full Stack Development with MERN
